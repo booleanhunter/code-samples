@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "async": "^1.4.2",
-    "bcrypt": "^0.8.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.14.1",
     "connect-redis": "^2.5.1",
     "consolidate": "^0.13.1",
